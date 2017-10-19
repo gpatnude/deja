@@ -1,7 +1,8 @@
 # de-jai'
 jai' - automation intelligence
-#purpose: 
-jai\` is (just another) attempt at creating a self-regulating software engine with a survival instinct. the purpose of this software is for it be a distributed-engine- to perpetuate itself and to keep itself running and growing and learning - the engine itself is it's own prime directive and it's primary objective is to ensure its own immortality. 
+
+# purpose: 
+de-jai' is (just another) attempt at creating a self-regulating software engine with a survival instinct. the purpose of this software is for it be a distributed-engine with an identity goal and a survival instinct - de-jai's prime directive is to prolong its own immortality.  secondarily, de-jai\` is a self-aware, self-healing, self-scaling,  process-cache and distributed-compute grid.  
 
 ## D - istributed
 ## E - ngine
@@ -10,13 +11,14 @@ jai\` is (just another) attempt at creating a self-regulating software engine wi
 ## A - utomation
 ## I - ntelligence
 ## '
-#background:
+
+# background:
 What if modern software systems were programmed on-top of a self-scaling-infrastructure orchestrated by a compute-process-store controlled by 'purposed' software ??? I you would have a machine whose primary missions are to:
 
-1) compute: keep its own compute-clusters running – (program it with a drive to survive and gift it with protected cloud resources).
-2) store: maintain, store,  and execute its own self-learning software – (give it a reason to survive, something to remember, the ability to learn, and the ability to synthesize )
+-- compute: keep its own compute-clusters running – (program it with a drive to survive and gift it with protected cloud resources).
+-- store: maintain, store,  and execute its own self-learning software – (give it a reason to survive, something to remember, the ability to learn, and the ability to synthesize )
 and;
-3) choose: use ‘rules/no-rules’ decision trees and occasionally choose one at random – (motivation - give the machine a way to self-learn) 
+-- choose: use ‘rules/no-rules’ decision trees and occasionally choose one at random – (motivation - give the machine a way to self-learn) 
 
 I think that’s the general blueprint on how to architect a true machine intelligence.  It’s easy really, all you need is secure compute and communication clouds with guaranteed power and a self-healing auto-scaling grid
 
