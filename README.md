@@ -2,7 +2,21 @@
 jai' - automation intelligence
 
 # purpose: 
-de-jai' is (just another) attempt at creating a self-regulating software engine with a survival instinct. the purpose of this software is for it be a distributed-engine with an identity goal and a survival instinct - de-jai's prime directive is to prolong its own immortality.  secondarily, de-jai\` is a self-aware, self-healing, self-scaling,  process-cache and distributed-compute grid.  
+de-jai' is (just another) attempt at creating a self-regulating software engine with a survival instinct. the purpose of this software is for it be a distributed-engine with an identity goal and a survival instinct - de-jai's prime directive is to extend its own mortality and to preserve state.  secondarily, de-jai\` aggregates and processes data as a self-aware, self-healing, self-scaling,  process-cache and distributed-compute grid. 
+
+# how it works:
+the system is a self-organizing swarm of both statefull and stateless nodes deployed as a distributed-graph. each node is an identical meta-machine; the node is an index-entry into a distributed, multi-dimensional distributed-versioned hash map; this is a critical point to understanding why de-jai' works. a good way to visualize the model is visualize what i call a 'self-sorting 'nth-tree'. 'nth-tree incorporates synchronous-asynchronous, parent-child, active-passive, produce-consumer and other important attributes that support a configurable model. each node is a programmable, statefull, versionable, verifiable data file that executes configurable algorithms. it is also self-healing and has a built-in 'swarm-survival' instinct.   
+
+it helps to visualize de-'jai as n-dimensional maps of maps.
+
+## model:
+Map<k, v<Map<k, v<Map<k, v<Map<k, v<Map<k, v<Map<k, v<Map<k, v<Map<k, v<Map<k, v< ... dai;
+
+## control:
+each node in the swarm is essentially a meta-processor that provides both the ability to store and process data supplied to it. it is aware of it's membership in the larger system and is cooperative by nature.      
+
+## state-machine:
+
 
 ## D - istributed
 ## E - ngine
@@ -30,5 +44,5 @@ The first thing you need to do is to visit this web-site and understand the arch
 When you are done and answer a question or ten you will receive the key you need to join the project.   
 
 # web site:
-
-Web Site: iDynaTECH.com (http://dejai.idynatech.net:23032/) 
+Web Site: iDynaTECH.com (http://dejai.idynatech.net:23032/?)
+ 
