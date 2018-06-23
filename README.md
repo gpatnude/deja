@@ -7,10 +7,11 @@ de-jai' is (just another) attempt at creating a self-regulating software engine 
 # how it works:
 the system is a self-organizing swarm of both statefull and stateless nodes deployed as a distributed-graph. each node is an identical meta-machine; the node is an index-entry into a distributed, multi-dimensional distributed-versioned hash map; this is a critical point to understanding why de-jai' works. a good way to visualize the model is visualize what i call a 'self-sorting 'nth-tree'. 'nth-tree incorporates synchronous-asynchronous, parent-child, active-passive, produce-consumer and other important attributes that support a configurable model. each node is a programmable, statefull, versionable, verifiable data file that executes configurable algorithms. it is also self-healing and has a built-in 'swarm-survival' instinct.   
 
-it helps to visualize de-'jai as n-dimensional maps of maps.
+it helps to visualize de-'jai as n-dimensional maps of n-dimensional maps.
 
 ## model:
-Map<k, v<Map<k, v<Map<k, v<Map<k, v<Map<k, v<Map<k, v<Map<k, v<Map<k, v<Map<k, v< ... dai;
+Node<?> node = new Node<Node>();
+
 
 ## control:
 each node in the swarm is essentially a meta-processor that provides both the ability to store and process data supplied to it. it is aware of it's membership in the larger system and is cooperative by nature.      
