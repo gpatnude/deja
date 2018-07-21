@@ -1,11 +1,16 @@
+
 # de-jai'
 jai' - automation intelligence
 
 # purpose: 
 de-jai' is (just another) attempt at creating a self-regulating software engine with a survival instinct. the purpose of this software is for it be a distributed-engine with an identity goal and a survival instinct - de-jai's prime directive is to extend its own mortality and to preserve state.  secondarily, de-jai\` aggregates and processes data as a self-aware, self-healing, self-scaling,  process-cache and distributed-compute grid. 
 
+this system is the working model of Greg Patnude's directed-distributed-graph implementation of an artificial intelligence machine; the system is an introverted multi-peer super-cluster that operates as a distributed-message processing engine with a fully 'versioned' data storage, indexing, and retrieval sub-system. think of something like Napster meets Apache Ignite meets Apache Spark meets Amazon's 'lambda meets GraphDB meets 'Git...  
+
+oh yeah -- it also has a 'prime directive'... meaning; this system is aware of itself and it's peer and has internal self-preservation algorithms.
+
 # how it works:
-the system is a self-organizing swarm of stateful and stateless nodes deployed as a distributed-graph. each node is an identical meta-machine; the node is an index-entry into a distributed, multi-dimensional distributed-versioned hash map; this is a critical point to understanding why de-jai' works. conceptually, the swarm is a 'self-sorting 'nth-tree' that incorporates synchronous-asynchronous, parent-child, active-passive, produce-consumer and other important attributes into a configurable model. a node is a programmable, verifiable data file that executes configurable algorithms. it is also self-healing and has a built-in 'swarm-survival' instinct.
+the system is a self-organizing swarm of stateful and stateless nodes deployed as a directed-distributed-graph. each node is an identical meta-machine; the node is an index-entry into a distributed, multi-dimensional distributed-versioned hash map; this is a critical point to understanding why de-jai' works. conceptually, the swarm is a 'self-sorting 'nth-tree' that incorporates synchronous-asynchronous, parent-child, active-passive, produce-consumer and other important attributes into a configurable model. a node is a programmable, verifiable data file that executes configurable algorithms. it is also self-healing and has a built-in 'swarm-survival' instinct.
 
 it helps to visualize de-'jai as n-dimensional maps of n-dimensional maps.
 
